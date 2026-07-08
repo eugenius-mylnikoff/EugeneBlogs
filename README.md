@@ -1,6 +1,6 @@
-- 👋 Hi, I'm <b>Eugene Blogs</b>.
-- 👀 I am interested in <i>creating websites (HTML/CSS/JavaScript)</i>.
-- 💻 I am currently learning how to create websites.
-- 👨‍💻 Now I am also studying programming languages such as <i>Python</i>❤️, <i>C#</i>, <i>C++</i>.
+- 👋 Hi, I'm <b>Evgeniy Mylnikov</b>.
+- 👀 I am interested in <i>Python development</i>.
+- 💻 I am currently studying Software Engineering in Artificial Intelligence.
+- 👨‍💻 I have also studied programming languages such as <i>C#</i> and <i>C++</i> and have worked on website development.
 - ✌ In my repositories you will find some of my projects.
-- 📫 You can contact me by mail mylnikov_evgeniy90@mail.ru.
+- 📫 You can contact me by mail mylnikovevgeniy@yandex.ru.
